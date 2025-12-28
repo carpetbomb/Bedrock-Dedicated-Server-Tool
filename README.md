@@ -4,6 +4,11 @@ Installing mods was a bit of a pain in the arse so I decided to try and automate
 This is the result of that.
 
 Programmed in Python.
+
+### [Installation]
+ - Navigate to [Install Requirements](https://github.com/carpetbomb/Bedrock-Dedicated-Server-Tool/releases/tag/Requirements)
+ - Then install the [latest release](https://github.com/carpetbomb/Bedrock-Dedicated-Server-Tool/releases/latest)
+
 ### [Images]
 
 - Program
