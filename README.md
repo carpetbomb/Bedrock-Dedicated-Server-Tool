@@ -12,10 +12,15 @@ Programmed in Python.
 ### [Images]
 
 - Program
- <img width="495" height="353" alt="program" src="https://github.com/user-attachments/assets/bedf17e5-8f5b-4707-bd4d-6823623ce7d6" />
+<img width="498" height="351" alt="main" src="https://github.com/user-attachments/assets/a7f031bc-492a-4665-9aa2-8588e04a967e" />
 
 
 =============================
 - Installed pack view
- <img width="726" height="490" alt="installed" src="https://github.com/user-attachments/assets/f3152b89-922e-4ddd-adb4-917dc57f0119" />
+<img width="687" height="511" alt="packs" src="https://github.com/user-attachments/assets/e960483b-49c9-421b-880f-8d3ffb71ca09" />
+
+
+https://github.com/user-attachments/assets/7a8299e8-58ff-437b-950a-9d91ac6ecdc2
+
+
 =============================
